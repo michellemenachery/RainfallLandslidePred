@@ -1,0 +1,2 @@
+# RainfallInducedLandslidePred
+In this project, an attempt is made to present a suitable rainfall-induced landslide predictor. The current study is aimed at evaluating the capabilities of five Machine Learning techniques (MLTs), including, Support Vector Machine (SVM), Random Forest (RF), Decision Tree, K-Nearest Neighbors (KNN), and eXtreme Gradient Boosting (XGBoost) through OnevsRestClassifier for landslide susceptibility modeling and comparison of their performances.
